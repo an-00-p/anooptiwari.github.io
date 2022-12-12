@@ -1,0 +1,14 @@
+#body{
+   
+        background-color: rgb(17, 17, 20);
+       
+}
+.card{
+    background-color: rgb(16, 16, 15);
+    float: right;
+    
+}
+.card-body{
+
+    background-color: rgb(180, 181, 169);
+}
